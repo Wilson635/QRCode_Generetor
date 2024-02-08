@@ -13,3 +13,11 @@ E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.pdb
 E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.genruntimeconfig.cache
 E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\ref\QrCodeGenerator.dll
 E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.csproj.AssemblyReference.cache
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.sourcelink.json
+E:\app\Csharp_App\QrCodeGenerator\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\app\Csharp_App\QrCodeGenerator\bin\Debug\net8.0\QRCoder.dll
+E:\app\Csharp_App\QrCodeGenerator\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\app\Csharp_App\QrCodeGenerator\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+E:\app\Csharp_App\QrCodeGenerator\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\app\Csharp_App\QrCodeGenerator\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.csproj.CopyComplete

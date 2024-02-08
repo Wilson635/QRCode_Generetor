@@ -38,17 +38,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "QRCode": {
+            "QRCoderNetCore": {
               "target": "Package",
-              "version": "[2.1.0, )"
-            },
-            "QRCoder": {
-              "target": "Package",
-              "version": "[1.4.3, )"
-            },
-            "System.Drawing.Common": {
-              "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

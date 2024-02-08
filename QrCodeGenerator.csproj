@@ -8,9 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="QRCode" Version="2.1.0" />
-    <PackageReference Include="QRCoder" Version="1.4.3" />
-    <PackageReference Include="System.Drawing.Common" Version="8.0.1" />
+    <PackageReference Include="QRCoderNetCore" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
