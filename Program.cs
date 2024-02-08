@@ -1,21 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-// using System;
-
-// class QrcodeGenerator 
-// {
-//     static void Main(string[] args)
-//     {
-//         Console.WriteLine("Hello, World!");
-//         Console.WriteLine("Hello, Generons un Code QR à partir d'une chaine");
-//         Console.WriteLine("Allez, Let's Go !!!!");
-
-//         string result = Console.ReadLine();
-//         Console.WriteLine("https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=(result)");
-//         Console.
-//     }
-// }
-
 using System;
 using System.Diagnostics;
 using System.Drawing;
