@@ -28,8 +28,6 @@ namespace App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, Generons un Code QR à partir d'une chaine");
             Console.WriteLine("Allez, Let's Go !!!!");
             Console.WriteLine("Enter the data to encode in the QR code:");
             string data = Console.ReadLine();
