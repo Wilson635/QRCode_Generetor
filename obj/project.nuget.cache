@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "w868XkYkySL3UlC7mL/S3kX6U/SkchLdjc+gMruofNZbCZfVrxRxci6gglM1P9iRAWfsP1Dye48m5Ssh2i3uQg==",
+  "success": true,
+  "projectFilePath": "E:\\app\\Csharp_App\\QrCodeGenerator\\QrCodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wilson715\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Wilson715\\.nuget\\packages\\qrcode\\2.1.0\\qrcode.2.1.0.nupkg.sha512",
+    "C:\\Users\\Wilson715\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\Wilson715\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'QRCode 2.1.0' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net8.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "QRCode",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+E:\app\Csharp_App\QrCodeGenerator\bin\Debug\net8.0\QrCodeGenerator.exe
+E:\app\Csharp_App\QrCodeGenerator\bin\Debug\net8.0\QrCodeGenerator.deps.json
+E:\app\Csharp_App\QrCodeGenerator\bin\Debug\net8.0\QrCodeGenerator.runtimeconfig.json
+E:\app\Csharp_App\QrCodeGenerator\bin\Debug\net8.0\QrCodeGenerator.dll
+E:\app\Csharp_App\QrCodeGenerator\bin\Debug\net8.0\QrCodeGenerator.pdb
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.AssemblyInfoInputs.cache
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.AssemblyInfo.cs
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.csproj.CoreCompileInputs.cache
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.dll
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\refint\QrCodeGenerator.dll
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.pdb
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.genruntimeconfig.cache
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\ref\QrCodeGenerator.dll
+E:\app\Csharp_App\QrCodeGenerator\obj\Debug\net8.0\QrCodeGenerator.csproj.AssemblyReference.cache
